@@ -2,7 +2,7 @@
 
 Project Overview:
 
-This repository contains a project focused on predicting drug-target interactions (DTI) using a Recurrent Neural Network (RNN). The project was completed as part of an assignment for the AI for Science Class. It explores the application of deep learning to analyze and predict binding affinities between drugs and target proteins based on their molecular and sequential data representations.
+This repository contains a project focused on predicting drug-target interactions (DTI) using a Recurrent Neural Network (RNN). The project was completed as part of an assignment for my AI for Science Class. It explores the application of deep learning to analyze and predict binding affinities between drugs and target proteins based on their molecular and sequential data representations.
 
 Objective:
 
